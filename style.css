@@ -1,0 +1,9 @@
+html, body { margin: 0; height: 100%; background: #07050d; overflow: hidden; }
+body { display: flex; align-items: center; justify-content: center; }
+canvas {
+  width: min(100vw, 177.77vh);
+  height: auto;
+  aspect-ratio: 16 / 9;
+  image-rendering: pixelated;
+  background: #0d0a16;
+}
