@@ -1,1 +1,0 @@
-Coloque aqui (opcional): fundo.png - imagem de fundo, ideal com 540 pixels de altura.
