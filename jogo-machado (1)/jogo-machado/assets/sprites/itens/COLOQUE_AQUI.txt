@@ -1,0 +1,1 @@
+Coloque aqui: moeda.png (quadros lado a lado, ex: 6 quadros). Ajuste os quadros em js/config.js.
